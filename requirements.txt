@@ -1,1 +1,7 @@
 deepface
+opencv-python
+opencv-contrib-python
+numpy
+pandas
+imutils
+tf-keras
